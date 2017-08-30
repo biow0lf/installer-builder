@@ -5,6 +5,8 @@
 ## Example
 
 ```
+branch 'Sisyphus'
+
 arch 'x86_64'
 
 interactive_installer
